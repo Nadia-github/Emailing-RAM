@@ -5,7 +5,7 @@
 }
 
 img {
-    width: 30%;
+    width: 25%;
 }
 
 @media screen and (max-width:600px) {
@@ -16,12 +16,12 @@ img {
 
 @media screen and (min-width: 601px) and (max-width:1000px) {
     img {
-        width: 70%;
+        width: 60%;
     } 
 }
 
 @media screen and (min-width: 1001px) and (max-width:1400px) {
     img {
-        width: 50%;
+        width: 35%;
     } 
 }
